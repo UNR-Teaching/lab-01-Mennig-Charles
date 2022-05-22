@@ -1,0 +1,3 @@
+When I ran 'ls > newfile.txt' it created a file called newfile.txt in my current repository. I believe that the '>' when combined with 'ls' becomes a create command, where it creates the specified file, and then fills it with the contents of your repository.
+When I ran 'git status', it says that 'newfile.txt' is a new change to be commited.
+When I ran 'git diff', it told me that the file 'newfile.txt' has the new line that I added.
